@@ -5,6 +5,10 @@ while countdown > 0
   countdown -= 1
   end
 
+when countdown == 0
+  puts "HAPPY NEW YEAR!"
+
+
 def countdown
 
 end
