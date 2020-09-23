@@ -5,9 +5,3 @@ while countdown > 0
   countdown -= 1
   end
 end
-
-
-
-def countdown
-
-end
